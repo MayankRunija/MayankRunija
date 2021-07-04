@@ -41,7 +41,7 @@ instagram:-Mayank Runija
  <a     
      href="https://www.instagram.com/_i_am._.runija18/?utm_medium=copy_link" target="_blank"
     style="font-size: 40px;background-color: white; display: flex; justify-content: center; align-items: center; width: 40px; height: 40px; border-radius: 5px;text-decoration:none;margin: 5px;">
-        <img  src="./whatsapp.png" width="80px" height="80px"/>
+        <img  src="./whatsapp.png" width="90px" height="90px"/>
  </a>
 
  
