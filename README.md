@@ -16,6 +16,11 @@ instagram:-Mayank Runija
     <img align="top" src="./CPP.png" width="100px">
     <img align="top" src="./skills/java.png" width="100px">
     
+    <a href="https://www.linkedin.com/in/mayank-runija-444111205" target="_blank"
+    style="font-size: 40px;background-color: white; display: flex; justify-content: center; align-items: center; width: 40px; height: 40px; border-radius: 5px;text-decoration:none;margin: 5px;">
+        <img  src="./linkedin.png" width="30px" height="30px"/>
+    </a>
+    
 <!--     <img align="top" src="./skills/mongodb.png" width="100px">
     <img align="top" src="./skills/sql.png" width="100px"> -->
 </div
