@@ -13,8 +13,8 @@ instagram:-Mayank Runija
 <!-- <img align="top" src="./Skills.png"
     alt="skills"/> -->
 <div>
-    <img align="top" src="./c.png" width="100px">
-    <img align="top" src="./CPP.png" width="80px">
+    <img align="top" src="./c.png" width="106px">
+    <img align="top" src="./CPP.png" width="83px">
     <img align="top" src="./java.png" width="100px">
     
     
