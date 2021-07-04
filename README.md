@@ -14,6 +14,7 @@ instagram:-Mayank Runija
     alt="skills"/> -->
 <div>
     <img align="top" src="./CPP.png" width="80px">
+    <img align="top" src="./c.png" width="100px">
     <img align="top" src="./java.png" width="100px">
     
     
@@ -33,6 +34,7 @@ instagram:-Mayank Runija
     style="font-size: 40px;background-color: white; display: flex; justify-content: center; align-items: center; width: 40px; height: 40px; border-radius: 5px;text-decoration:none;margin: 5px;">
         <img  src="./insta.png" width="70px" height="70px"/>
  </a>
+ 
 <a     
      href="https://twitter.com/runijamayank" target="_blank"
     style="font-size: 40px;background-color: white; display: flex; justify-content: center; align-items: center; width: 40px; height: 40px; border-radius: 5px;text-decoration:none;margin: 5px;">
