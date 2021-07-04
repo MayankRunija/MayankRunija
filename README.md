@@ -14,14 +14,15 @@ instagram:-Mayank Runija
     alt="skills"/> -->
 <div>
     <img align="top" src="./CPP.png" width="100px">
-    <img align="top" src="./skills/java.png" width="100px">
+    <img align="top" src=".java.png" width="100px">
     
     
    
     
 </div>
-<h1 align="center"> Contact Me </h1>
 
+
+<h1 align="center"> Contact Me </h1>
  <a 
     href="https://www.linkedin.com/in/mayank-runija-444111205" target="_blank"
     style="font-size: 40px;background-color: white; display: flex; justify-content: center; align-items: center; width: 40px; height: 40px; border-radius: 5px;text-decoration:none;margin: 5px;">
