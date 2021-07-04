@@ -20,11 +20,12 @@ instagram:-Mayank Runija
    
     
 </div>
+<h1 align="center"> Contact Me </h1>
 
  <a 
     href="https://www.linkedin.com/in/mayank-runija-444111205" target="_blank"
     style="font-size: 40px;background-color: white; display: flex; justify-content: center; align-items: center; width: 40px; height: 40px; border-radius: 5px;text-decoration:none;margin: 5px;">
-        <img  src="./linkedin.png" width="30px" height="30px"/>
+        <img  src="./linkedin.png" width="60px" height="60px"/>
  </a>
 <!---
 Mickey18/Mickey18 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
