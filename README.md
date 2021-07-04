@@ -3,7 +3,7 @@
 - :india: I’m From India .
 - 🌱 I’m currently learning MTech (IT).
 - 💞️ I’m looking to collaborate on C & CPP Projects.
-- :thinking:I’m looking for help with Django.
+- :thinking:I’m looking for help with Python.
 - 📫 How to reach me 
 email:- runija111@gmail.com
 instagram:-Mayank Runija
