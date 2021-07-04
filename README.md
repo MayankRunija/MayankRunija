@@ -26,15 +26,23 @@ instagram:-Mayank Runija
  <a 
     href="https://www.linkedin.com/in/mayank-runija-444111205" target="_blank"
     style="font-size: 40px;background-color: white; display: flex; justify-content: center; align-items: center; width: 40px; height: 40px; border-radius: 5px;text-decoration:none;margin: 5px;">
-        <img  src="./linkedin.png" width="100px" height="100px"/>
+        <img  src="./linkedin.png" width="70px" height="70px"/>
  </a>
-    
  <a     
      href="https://www.instagram.com/_i_am._.runija18/?utm_medium=copy_link" target="_blank"
     style="font-size: 40px;background-color: white; display: flex; justify-content: center; align-items: center; width: 40px; height: 40px; border-radius: 5px;text-decoration:none;margin: 5px;">
-        <img  src="./insta.png" width="100px" height="100px"/>
+        <img  src="./insta.png" width="70px" height="70px"/>
  </a>
-
+<a     
+     href="https://twitter.com/runijamayank" target="_blank"
+    style="font-size: 40px;background-color: white; display: flex; justify-content: center; align-items: center; width: 40px; height: 40px; border-radius: 5px;text-decoration:none;margin: 5px;">
+        <img  src="./twitter.png" width="70px" height="70px"/>
+ </a>
+ <a     
+     href="https://www.instagram.com/_i_am._.runija18/?utm_medium=copy_link" target="_blank"
+    style="font-size: 40px;background-color: white; display: flex; justify-content: center; align-items: center; width: 40px; height: 40px; border-radius: 5px;text-decoration:none;margin: 5px;">
+        <img  src="./whatsapp.png" width="70px" height="70px"/>
+ </a>
 
  
 <!---
