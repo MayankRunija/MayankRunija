@@ -1,12 +1,13 @@
 ![Ruthless _ ✓](https://user-images.githubusercontent.com/84033122/124388998-e8c79880-dd02-11eb-8a83-be924d66e7e4.gif)
-- 👋 Hi, I’m @Mickey18,
-- 👀 I’m interested in information technology. 
-- :india: I’m From India .
-- 🌱 I’m currently learning MTech (IT).
-- 💞️ I’m looking to collaborate on C & CPP Projects.
-- :thinking:I’m looking for help with Python.
-- 📫 How to reach me 
-email:- runija111@gmail.com
+<h1 align="center"> About Me </h1>
+<li> 👋 Hi, I’m @Mickey18,</li>
+<li> 👀 I’m interested in information technology.</li>
+<li> :india: I’m From India.</li>
+<li> 🌱 I’m currently learning MTech (IT).</li>
+<li> 💞️ I’m looking to collaborate on C & CPP Projects.</li>
+<li> :thinking:I’m looking for help with Python.</li>
+<li> 📫 How to reach me </li>
+<li>email:- runija111@gmail.com</li>
 instagram:-Mayank Runija
 
 <h1 align="center"> My Skills </h1>
