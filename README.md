@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Mickey18
 - 👀 I’m interested in information technology 
 - 🌱 I’m currently learning MTech IT
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on C & CPP Projects.
 - :thinking:I’m looking for help with Django.
 - 📫 How to reach me 
 email:- runija111@gmail.com
