@@ -1,3 +1,4 @@
+![Ruthless _ ✓](https://user-images.githubusercontent.com/84033122/124388998-e8c79880-dd02-11eb-8a83-be924d66e7e4.gif)
 - 👋 Hi, I’m @Mickey18,
 - 👀 I’m interested in information technology. 
 - :india: I’m From India .
