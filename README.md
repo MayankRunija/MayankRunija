@@ -9,6 +9,17 @@
 email:- runija111@gmail.com
 instagram:-Mayank Runija
 
+<h1 align="center"> My Skills </h1>
+<!-- <img align="top" src="./Skills.png"
+    alt="skills"/> -->
+<div>
+    <img align="top" src="./skills/cpp.png" width="100px">
+    <img align="top" src="./skills/java.png" width="100px">
+    
+<!--     <img align="top" src="./skills/mongodb.png" width="100px">
+    <img align="top" src="./skills/sql.png" width="100px"> -->
+</div
+
 
 <!---
 Mickey18/Mickey18 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
