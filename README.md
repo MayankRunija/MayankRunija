@@ -1,10 +1,15 @@
-<!--![Ruthless _ ✓](https://user-images.githubusercontent.com/84033122/124388998-e8c79880-dd02-11eb-8a83-be924d66e7e4.gif)
-<h1 align="center"> About Me </h1>-->
+<!--![Ruthless _ ✓](https://user-images.githubusercontent.com/84033122/124388998-e8c79880-dd02-11eb-8a83-be924d66e7e4.gif) -->
+<p align="center">
+
+  <img src="https://user-images.githubusercontent.com/84033122/124388998-e8c79880-dd02-11eb-8a83-be924d66e7e4.gif" alt="Coder GIF" width="700" height="400">
+  
+</p>
 <p align="center">
 
   <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500" height="400">
   
 </p>
+
 
 <h1 align="center">About  Me </h1>
 <li> 👋 Hi, I’m @Mickey18,</li>
