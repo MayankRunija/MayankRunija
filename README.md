@@ -1,5 +1,6 @@
 <!--![Ruthless _ ✓](https://user-images.githubusercontent.com/84033122/124388998-e8c79880-dd02-11eb-8a83-be924d66e7e4.gif) -->
 
+<p align="left">
 <p align="center">
   <img src="https://github.com/thompsonemerson/thompsonemerson/raw/master/cover-thompson.png" height="200"/>
 </p><p align="center">
@@ -34,6 +35,16 @@ instagram:-Mayank Runija
     <img align="top" src="./CPP.png" width="83px">
     <img align="top" src="./java.png" width="100px">
 </div>
+<!-- Github stats-->
+<hr>
+  <p align="center">
+ <img src="https://media.giphy.com/media/8UHRm5oY4k4FDxq5QG/giphy.gif" width="30px" alt="GitHub-Status"/>&nbsp;<i><b>GitHub Stats</b></i><img src="https://media.giphy.com/media/8UHRm5oY4k4FDxq5QG/giphy.gif" width="30px" alt="GitHub-Status"/></p>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Mickey18&show_icons=true&locale=en&layout=compact" alt="Mickey18" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Mickey18&show_icons=true&locale=en" alt="Mickey18" width="410" /></p>
+
+<hr>
 
 <h1 align="center"> Contact Me </h1>
 <a 
