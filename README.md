@@ -43,7 +43,7 @@ instagram:-Mayank Runija
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Mickey18&show_icons=true&locale=en&layout=compact" alt="Mickey18" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Mickey18&show_icons=true&locale=en" alt="Mickey18" width="410" /></p>
-
+<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=KasRoudra&theme=dracula"></p>
 <hr>
 
 <h1 align="center"> Contact Me </h1>
