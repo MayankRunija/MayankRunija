@@ -45,7 +45,7 @@ instagram:-Mayank Runija
 
 <a href="https://github.com/Mickey18">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Mickey18&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Mickey18&layout=compact&langs_count=8&theme=algolia"/>
+  <img height="130em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Mickey18&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=KasRoudra&theme=dracula"></p>
 <hr>
