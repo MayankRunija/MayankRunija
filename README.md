@@ -17,9 +17,8 @@
 <p>
 
 <h1 align="center">About  Me </h1>
-<li> 👋 Hi, I’m @Mickey18,</li>
-<li> 👀 I’m interested in information technology.</li>
-<li> :india: I’m From India.</li><img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
+<li> 👋 Hi, I’m @Mickey18,</li><li> 👀 I’m interested in information technology.<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230"></li>
+<li> :india: I’m From India.</li>
 <li> 🌱 I’m currently learning MTech (IT).</li>
 <li> 💞️ I’m looking to collaborate on C & CPP Projects.</li>
 <li> :thinking:I’m looking for help with Python.</li>
