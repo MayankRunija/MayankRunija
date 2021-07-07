@@ -14,11 +14,12 @@
   
 </p>
 
+<p>
 
 <h1 align="center">About  Me </h1>
 <li> 👋 Hi, I’m @Mickey18,</li>
 <li> 👀 I’m interested in information technology.</li>
-<li> :india: I’m From India.</li>
+<li> :india: I’m From India.</li><img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
 <li> 🌱 I’m currently learning MTech (IT).</li>
 <li> 💞️ I’m looking to collaborate on C & CPP Projects.</li>
 <li> :thinking:I’m looking for help with Python.</li>
@@ -26,6 +27,8 @@
 <li> 📫 How to reach me </li>
 <li>email:- runija111@gmail.com</li>
 instagram:-Mayank Runija
+
+</p>
 
 <h1 align="center"> My Skills </h1>
 <!-- <img align="top" src="./Skills.png"
@@ -40,9 +43,10 @@ instagram:-Mayank Runija
   <p align="center">
  <img src="https://media.giphy.com/media/8UHRm5oY4k4FDxq5QG/giphy.gif" width="30px" alt="GitHub-Status"/>&nbsp;<i><b>GitHub Stats</b></i><img src="https://media.giphy.com/media/8UHRm5oY4k4FDxq5QG/giphy.gif" width="30px" alt="GitHub-Status"/></p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Mickey18&show_icons=true&locale=en&layout=compact" alt="Mickey18" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Mickey18&show_icons=true&locale=en" alt="Mickey18" width="410" /></p>
+<a href="https://github.com/Mickey18">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Mickey18&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Mickey18&layout=compact&langs_count=8&theme=algolia"/>
+</a>
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=KasRoudra&theme=dracula"></p>
 <hr>
 
