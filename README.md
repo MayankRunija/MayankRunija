@@ -51,7 +51,7 @@ instagram:-Mayank Runija
 
 <h1 align="center"> Contact Me </h1>
  <a     
-     href="" target="_blank"
+   <a  href="mailto: runija111@gmail.com">send email </a> target="_blank"
      style="font-size: 40px;background-color: white; display: flex; justify-content: center; align-items: center; width: 40px; height: 40px; border-radius: 5px;text-decoration:none;margin: 5px;">
         <img  src="./Gmail.png" width="80px" height="85px"/>
  </a>
