@@ -50,7 +50,7 @@ instagram:-Mayank Runija
 <hr>
 
 <h1 align="center"> Contact Me </h1>
- <a     
+ 
  <a href="mailto:runija111@gmail.com" target="_blank"
     style="font-size: 40px;background-color: white; display: flex; justify-content: center; align-items: center; width: 40px; height: 40px; border-radius: 5px;text-decoration:none;margin: 5px;">
         <img  src="./gmail.png" width="30px" height="30px"/>
