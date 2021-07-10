@@ -50,7 +50,7 @@ instagram:-Mayank Runija
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Mickey18&theme=dracula"></p>
 <hr>
 
-<h1 align="center"> My Social Media Account </h1>
+<h1 align="center"> My Social Media Account's </h1>
  
  <a href="mailto:runija111@gmail.com" target="_blank"
     style="font-size: 40px;background-color: white; display: flex; justify-content: center; align-items: center; width: 40px; height: 40px; border-radius: 5px;text-decoration:none;margin: 5px;">
