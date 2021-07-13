@@ -50,6 +50,14 @@ instagram:-Mayank Runija
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Mickey18&theme=dracula"></p>
 <hr>
 
+### Spotify Playing 🎧
+
+[![Spotify](https://novatorem.bgstatic.vercel.app/api/spotify)](https://open.spotify.com/user/11153360645)
+
+---
+
+<img align="right" src="http://estruyf-github.azurewebsites.net/api/VisitorHit?user=Bgstatic&repo=Bgstatic&countColorcountColor&countColor=%237B1E7B"/>
+
 <h1 align="center"> My Social Media Account's </h1>
  
  <a href="mailto:runija111@gmail.com" target="_blank"
