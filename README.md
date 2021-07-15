@@ -54,7 +54,8 @@ instagram:-Mayank Runija
 
 <img align="right" alt="GIF" height="170px" src="https://media.giphy.com/media/J5B1Y8QZnzXXbLQIBu/giphy.gif" />
 
-### Spotify Playing 🎧
+<h1 align="center">  Spotify Playing 🎧 </h1>
+ 
 
 [![Spotify](https://novatorem.bgstatic.vercel.app/api/spotify)](https://open.spotify.com/user/j29ssph7juwbrrncw2gfeqd78)
 
