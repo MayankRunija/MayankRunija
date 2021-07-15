@@ -16,7 +16,7 @@
 
 <p>
 
-<h1 align="center">About  Me </h1><img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
+<h1 align="center">About  Me</h1><img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 <li> 👋 Hi, I’m MAYANK RUNIJA,</li>
 <li> 👀 I’m interested in information technology.</li>
 <li> :india: I’m From India.</li>
@@ -40,9 +40,9 @@ instagram:-Mayank Runija
 </div>
 <!-- Github stats-->
 <hr>
-  <p align="center">
- <img src="https://media.giphy.com/media/8UHRm5oY4k4FDxq5QG/giphy.gif" width="30px" alt="GitHub-Status"/>&nbsp;<i><b>GitHub Stats</b></i><img src="https://media.giphy.com/media/8UHRm5oY4k4FDxq5QG/giphy.gif" width="30px" alt="GitHub-Status"/></p>
-
+  <!-- <p align="center">
+ <img src="https://media.giphy.com/media/8UHRm5oY4k4FDxq5QG/giphy.gif" width="30px" alt="GitHub-Status"/>&nbsp;<i><b>GitHub Stats</b></i><img src="https://media.giphy.com/media/8UHRm5oY4k4FDxq5QG/giphy.gif" width="30px" alt="GitHub-Status"/></p> -->
+<h1 align="center"> GitHub-Status </h1>
 <a href="https://github.com/Mickey18">
   <img height="160em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Mickey18&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
   <img height="160em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Mickey18&layout=compact&langs_count=8&theme=algolia"/>
@@ -63,7 +63,7 @@ instagram:-Mayank Runija
 
 <img align="right" src="http://estruyf-github.azurewebsites.net/api/VisitorHit?user=Bgstatic&repo=Bgstatic&countColorcountColor&countColor=%237B1E7B"/>
 
-<h1 align="center"> My Social Media Account's </h1>
+<h1 align="center"> My Social Media Account's 📍📍</h1>
  
  <a href="mailto:runija111@gmail.com" target="_blank"
     style="font-size: 40px;background-color: white; display: flex; justify-content: center; align-items: center; width: 40px; height: 40px; border-radius: 5px;text-decoration:none;margin: 5px;">
