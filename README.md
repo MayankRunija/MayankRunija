@@ -65,22 +65,22 @@ instagram:-Mayank Runija
 
 <h1 align="center"> My Social Media Account's 📍📍</h1>
  
- <a href="mailto:runija111@gmail.com" target="_blank"
+ <a href="mailto:runija111@gmail.com" target="_main"
     style="font-size: 40px;background-color: white; display: flex; justify-content: center; align-items: center; width: 40px; height: 40px; border-radius: 5px;text-decoration:none;margin: 5px;">
         <img  src="./Gmail.png" width="70px" height="70px"/>
     </a>
 <a 
-    href="https://www.linkedin.com/in/mayank-runija-444111205" target="_blank"
+    href="https://www.linkedin.com/in/mayank-runija-444111205" target="_main"
     style="font-size: 40px;background-color: white; display: flex; justify-content: center; align-items: center; width: 40px; height: 40px; border-radius: 5px;text-decoration:none;margin: 5px;">
         <img  src="./linkedin.png" width="70px" height="70px"/>
  </a>
 <a     
-     href="https://www.instagram.com/_i_am._.runija18/?utm_medium=copy_link" target="_blank"
+     href="https://www.instagram.com/_i_am._.runija18/?utm_medium=copy_link" target="_main"
     style="font-size: 40px;background-color: white; display: flex; justify-content: center; align-items: center; width: 40px; height: 40px; border-radius: 5px;text-decoration:none;margin: 5px;">
         <img  src="./insta.png" width="70px" height="70px"/>
  </a>
  <a     
-     href="https://twitter.com/runijamayank" target="_blank"
+     href="https://twitter.com/runijamayank" target="_main"
     style="font-size: 40px;background-color: white; display: flex; justify-content: center; align-items: center; width: 40px; height: 40px; border-radius: 5px;text-decoration:none;margin: 5px;">
         <img  src="./twitter.png" width="80px" height="70px"/>
  </a>
@@ -90,7 +90,7 @@ instagram:-Mayank Runija
       <img  src="./youtube.png" width="100px" height="60px"/>
  </a>
 <a     
-     href="https://api.whatsapp.com/send?phone=+917747095975" target="_blank"
+     href="https://api.whatsapp.com/send?phone=+917747095975" target="_main"
     style="font-size: 40px;background-color: white; display: flex; justify-content: center; align-items: center; width: 40px; height: 40px; border-radius: 5px;text-decoration:none;margin: 5px;">
         <img  src="./whatsapp.png" width="90px" height="90px"/>
  </a>
