@@ -85,7 +85,7 @@ instagram:-Mayank Runija
         <img  src="./twitter.png" width="80px" height="70px"/>
  </a>
  <a     
-     href="https://youtube.com/channel/UCqv4jPzVYcXEW3iHS5ScDYQ" target="_blank"
+     href="https://youtube.com/channel/UCqv4jPzVYcXEW3iHS5ScDYQ" target="_blank" target="_main"
     style="font-size: 40px;background-color: white; display: flex; justify-content: center; align-items: center; width: 40px; height: 40px; border-radius: 5px;text-decoration:none;margin: 5px;">
       <img  src="./youtube.png" width="100px" height="60px"/>
  </a>
