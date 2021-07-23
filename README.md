@@ -37,8 +37,7 @@ instagram:-Mayank Runija
     <img align="top" src="./c.png" width="106px">
     <img align="top" src="./CPP.png" width="83px">
     <img align="top" src="./java.png" width="100px">
-    <img align="top" src="./html.png" width="83px">
-    <img align="top" src="./css.png" width="100px">
+    <img align="top" src="./html&css.png" width="100px">
 </div>
 <!-- Github stats-->
 <hr>
