@@ -16,7 +16,7 @@
 
 <p>
 
-<h1 align="center">About  Me</h1><img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
+<h1 align="center">About  Me</h1> <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 <li> 👋 Hi, I’m MAYANK RUNIJA,</li>
 <li> 👀 I’m interested in information technology.</li>
 <li> :india: I’m From India.</li>
