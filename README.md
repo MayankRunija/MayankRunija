@@ -29,7 +29,7 @@
 instagram:-Mayank Runija
 
 </p>
-<hr>
+
 <h1 align="center"> My Skills </h1>
 <!-- <img align="top" src="./Skills.png"
     alt="skills"/> -->
@@ -40,7 +40,7 @@ instagram:-Mayank Runija
     <img align="top" src="./html_css-removebg-preview (1).png" width="150px">
 </div>
 <!-- Github stats-->
-<hr>
+
   <!-- <p align="center">
  <img src="https://media.giphy.com/media/8UHRm5oY4k4FDxq5QG/giphy.gif" width="30px" alt="GitHub-Status"/>&nbsp;<i><b>GitHub Stats</b></i><img src="https://media.giphy.com/media/8UHRm5oY4k4FDxq5QG/giphy.gif" width="30px" alt="GitHub-Status"/></p> -->
 <h1 align="center"> GitHub-Status </h1>
@@ -56,7 +56,7 @@ instagram:-Mayank Runija
     <img height="150" width="175" src="https://github.com/JayantGoel001/JayantGoel001/blob/master/PNG/right.png">
   </a>
 </p>
-<hr>
+
 
 <img align="right" alt="GIF" height="170px" src="https://media.giphy.com/media/J5B1Y8QZnzXXbLQIBu/giphy.gif" />
 
@@ -68,7 +68,7 @@ instagram:-Mayank Runija
 ---
 
 <img align="right" src="http://estruyf-github.azurewebsites.net/api/VisitorHit?user=Bgstatic&repo=Bgstatic&countColorcountColor&countColor=%237B1E7B"/>
-<hr>
+
 <h1 align="center"> My Social Media Account's 📍📍</h1>
  
  <a href="mailto:runija111@gmail.com" target="_blank"
