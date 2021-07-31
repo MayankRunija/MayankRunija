@@ -13,7 +13,7 @@
   <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500" height="400">
   
 </p>
-
+<hr>
 <p>
 
 <h1 align="center">About  Me</h1> <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
@@ -29,7 +29,7 @@
 instagram:-Mayank Runija
 
 </p>
-
+<hr>
 <h1 align="center"> My Skills </h1>
 <!-- <img align="top" src="./Skills.png"
     alt="skills"/> -->
@@ -48,10 +48,15 @@ instagram:-Mayank Runija
   <img height="160em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Mickey18&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
   <img height="160em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Mickey18&layout=compact&langs_count=8&theme=algolia"/>
 </a>
-<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Mickey18&theme=dracula"></p>
 <hr>
-
----
+<p align="center">
+  <a>
+    <img height="150" width="175" src="https://github.com/JayantGoel001/JayantGoel001/blob/master/PNG/left.png">
+    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Mickey18&theme=dark&hide_border=true"/>
+    <img height="150" width="175" src="https://github.com/JayantGoel001/JayantGoel001/blob/master/PNG/right.png">
+  </a>
+</p>
+<hr>
 
 <img align="right" alt="GIF" height="170px" src="https://media.giphy.com/media/J5B1Y8QZnzXXbLQIBu/giphy.gif" />
 
@@ -63,7 +68,7 @@ instagram:-Mayank Runija
 ---
 
 <img align="right" src="http://estruyf-github.azurewebsites.net/api/VisitorHit?user=Bgstatic&repo=Bgstatic&countColorcountColor&countColor=%237B1E7B"/>
-
+<hr>
 <h1 align="center"> My Social Media Account's 📍📍</h1>
  
  <a href="mailto:runija111@gmail.com" target="_blank"
