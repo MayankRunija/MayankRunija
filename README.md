@@ -22,7 +22,7 @@
 <li> :india: I’m From India.</li>
 <li> 🌱 I’m currently learning MTech (IT).</li>
 <li> 💞️ I’m looking to collaborate on C & CPP Projects.</li>
-<li> :thinking:I’m looking for help with Python.</li>
+<li> :thinking:I’m looking for help in Python.</li>
 <li>⚡  Fun fact: I spend almost 5-6 hours Learning everyday</li>
 <li> 📫 How to reach me </li>
 <li>email:- runija111@gmail.com</li>
