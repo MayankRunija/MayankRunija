@@ -81,7 +81,7 @@ instagram:-Mayank Runija
         <img  src="./linkedin.png" width="70px" height="70px"/>
  </a>
 <a     title="Instagram"
-     href="https://www.instagram.com/_i_am._.runija18/?utm_medium=copy_link" target="_blank"
+     href="https://www.instagram.com/mayank.runija18/?utm_medium=copy_link" target="_blank"
     style="font-size: 40px;background-color: white; display: flex; justify-content: center; align-items: center; width: 40px; height: 40px; border-radius: 5px;text-decoration:none;margin: 5px;">
         <img  src="./insta.png" width="70px" height="70px"/>
  </a>
@@ -153,7 +153,7 @@ skill and tools
 <p align="left"> 
   <a href="https://scikit-learn.org/" target="_blank"> <img src="https://avatars1.githubusercontent.com/u/16848261?s=280&v=4" alt="scikit_learn" width="40" height="40"/> </a>  
 <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> 
-<a href="https://www.w3schools.com/cs/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/> 
+<img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/> 
   <a href="https://www.php.net" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> 
   <a href="https://www.linux.org/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> 
   
