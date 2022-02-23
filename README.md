@@ -70,9 +70,9 @@ instagram:-Mayank Runija
 <img align="right" src="http://estruyf-github.azurewebsites.net/api/VisitorHit?user=Bgstatic&repo=Bgstatic&countColorcountColor&countColor=%237B1E7B"/>
 
 <h1 align="center"> My Social Media Account's 📍📍</h1>
- 
+ <div align="center">
  <a title="Gmail" href="mailto:runija111@gmail.com" target="_blank"
-    style="font-size: 40px;background-color: white; display: flex; justify-content: center; align-items: center; width: 25px; height: 25px; border-radius: 5px;text-decoration:none;margin-left: 30pxpx;">
+    style="font-size: 40px;background-color: white; display: flex; justify-content: center; align-items: center; width: 25px; height: 25px; border-radius: 5px;text-decoration:none;margin: 5px;">
         <img  src="./Gmail.png" width="40px" height="40px"/>
     </a>
 <a title="Linkedin"
@@ -101,7 +101,7 @@ instagram:-Mayank Runija
         <img  src="./whatsapp.png" width="50px" height="50px"/>
  </a>
 
- 
+ </div>
 
 <!-- 
 Technologies I've been learning and using so far :
