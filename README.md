@@ -73,7 +73,7 @@ instagram:-Mayank Runija
  
  <a title="Gmail" href="mailto:runija111@gmail.com" target="_blank"
     style="font-size: 40px;background-color: white; display: flex; justify-content: center; align-items: center; width: 25px; height: 25px; border-radius: 5px;text-decoration:none;margin: 5px;">
-        <img  src="./Gmail.png" width="40px" height="40px"/>
+        <img style="margin-left="30px"  src="./Gmail.png" width="40px" height="40px"/>
     </a>
 <a title="Linkedin"
     href="https://www.linkedin.com/in/mayank-runija-444111205"  target="_blank"
@@ -88,7 +88,7 @@ instagram:-Mayank Runija
  <a     title="Twitter"
      href="https://twitter.com/runijamayank" target="_blank"
     style="font-size: 40px;background-color: white; display: flex; justify-content: center; align-items: center; width: 25px; height: 25px; border-radius: 5px;text-decoration:none;margin: 5px;">
-        <img  src="./twitter.png" width="60px" height="50px"/>
+        <img  src="./twitter.png" width="40px" height="30px"/>
  </a>
  <a     title="Youtube"
      href="https://youtube.com/channel/UCqv4jPzVYcXEW3iHS5ScDYQ" target="_blank" target="_blank"
