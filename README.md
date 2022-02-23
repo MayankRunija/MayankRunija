@@ -72,34 +72,34 @@ instagram:-Mayank Runija
 <h1 align="center"> My Social Media Account's 📍📍</h1>
  
  <a title="Gmail" href="mailto:runija111@gmail.com" target="_blank"
-    style="font-size: 40px;background-color: white; display: flex; justify-content: center; align-items: center; width: 40px; height: 40px; border-radius: 5px;text-decoration:none;margin: 5px;">
+    style="font-size: 40px;background-color: white; display: flex; justify-content: center; align-items: center; width: 25px; height: 25px; border-radius: 5px;text-decoration:none;margin: 5px;">
         <img  src="./Gmail.png" width="70px" height="70px"/>
     </a>
 <a title="Linkedin"
     href="https://www.linkedin.com/in/mayank-runija-444111205"  target="_blank"
-    style="font-size: 40px;background-color: white; display: flex; justify-content: center; align-items: center; width: 40px; height: 40px; border-radius: 5px;text-decoration:none;margin: 5px;">
+    style="font-size: 40px;background-color: white; display: flex; justify-content: center; align-items: center; width: 25px; height: 25px; border-radius: 5px;text-decoration:none;margin: 5px;">
         <img  src="./linkedin.png" width="70px" height="70px"/>
  </a>
 <a     title="Instagram"
      href="https://www.instagram.com/mayank.runija18/?utm_medium=copy_link" target="_blank"
-    style="font-size: 40px;background-color: white; display: flex; justify-content: center; align-items: center; width: 40px; height: 40px; border-radius: 5px;text-decoration:none;margin: 5px;">
+    style="font-size: 40px;background-color: white; display: flex; justify-content: center; align-items: center; width: 25px; height: 25px; border-radius: 5px;text-decoration:none;margin: 5px;">
         <img  src="./insta.png" width="70px" height="70px"/>
  </a>
  <a     title="Twitter"
      href="https://twitter.com/runijamayank" target="_blank"
-    style="font-size: 40px;background-color: white; display: flex; justify-content: center; align-items: center; width: 40px; height: 40px; border-radius: 5px;text-decoration:none;margin: 5px;">
+    style="font-size: 40px;background-color: white; display: flex; justify-content: center; align-items: center; width: 25px; height: 25px; border-radius: 5px;text-decoration:none;margin: 5px;">
         <img  src="./twitter.png" width="80px" height="70px"/>
  </a>
  <a     title="Youtube"
      href="https://youtube.com/channel/UCqv4jPzVYcXEW3iHS5ScDYQ" target="_blank" target="_blank"
-    style="font-size: 40px;background-color: white; display: flex; justify-content: center; align-items: center; width: 40px; height: 40px; border-radius: 5px;text-decoration:none;margin: 5px;">
+    style="font-size: 40px;background-color: white; display: flex; justify-content: center; align-items: center; width: 25px; height: 40px; border-radius: 5px;text-decoration:none;margin: 5px;">
       <img  src="./youtube.png" width="100px" height="60px"/>
  </a>
-<a     title="Whatsapp"
+<a    title="Whatsapp"
      href="https://api.whatsapp.com/send?phone=+9177******75" target="_blank"
-    style="font-size: 40px;background-color: white; display: flex; justify-content: center; align-items: center; width: 40px; height: 40px; border-radius: 5px;text-decoration:none;margin: 5px;">
+    style="font-size: 40px;background-color: white; display: flex; justify-content: center; align-items: center; width: 25px; height: 25px; border-radius: 5px;text-decoration:none;margin: 5px;">
         <img  src="./whatsapp.png" width="90px" height="90px"/>
- </a>
+ </a
 
  
 
