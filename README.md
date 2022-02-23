@@ -72,7 +72,7 @@ instagram:-Mayank Runija
 <h1 align="center"> My Social Media Account's 📍📍</h1>
  
  <a title="Gmail" href="mailto:runija111@gmail.com" target="_blank"
-    style="font-size: 40px;background-color: white; display: flex; justify-content: center; align-items: center; width: 25px; height: 25px; border-radius: 5px;text-decoration:none;margin: 5px;">
+    style="font-size: 40px;background-color: white; display: flex; justify-content: center; align-items: center; width: 25px; height: 25px; border-radius: 5px;text-decoration:none;margin-left: 30pxpx;">
         <img  src="./Gmail.png" width="40px" height="40px"/>
     </a>
 <a title="Linkedin"
@@ -90,10 +90,10 @@ instagram:-Mayank Runija
     style="font-size: 40px;background-color: white; display: flex; justify-content: center; align-items: center; width: 25px; height: 25px; border-radius: 5px;text-decoration:none;margin: 5px;">
         <img  src="./twitter.png" width="40px" height="35px"/>
  </a>
- <a     title="Youtube"
+<!-- <a     title="Youtube"
      href="https://youtube.com/channel/UCqv4jPzVYcXEW3iHS5ScDYQ" target="_blank" target="_blank"
     style="font-size: 40px;background-color: white; display: flex; justify-content: center; align-items: center; width: 25px; height: 40px; border-radius: 5px;text-decoration:none;margin: 5px;">
-      <img  src="./youtube.png" width="70px" height="40px"/>
+      <img  src="./youtube.png" width="70px" height="40px"/> -->
  </a>
 <a    title="Whatsapp"
      href="https://api.whatsapp.com/send?phone=+9177******75" target="_blank"
