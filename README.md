@@ -63,7 +63,7 @@ instagram:-Mayank Runija
 <h1 align="center">  Spotify Playing 🎧 </h1>
  
 
-[![Spotify](https://novatorem.bgstatic.vercel.app/api/spotify)](https://open.spotify.com/user/j29ssph7juwbrrncw2gfeqd78)
+[![Spotify](https://novatorem.bgstatic.vercel.app/api/spotify)](https://open.spotify.com/user/315k4nuqofr7ckh7bacggvsu2ita)
 
 
 
