@@ -44,15 +44,15 @@ instagram:-Mayank Runija
   <!-- <p align="center">
  <img src="https://media.giphy.com/media/8UHRm5oY4k4FDxq5QG/giphy.gif" width="30px" alt="GitHub-Status"/>&nbsp;<i><b>GitHub Stats</b></i><img src="https://media.giphy.com/media/8UHRm5oY4k4FDxq5QG/giphy.gif" width="30px" alt="GitHub-Status"/></p> -->
 <h1 align="center"> GitHub-Status </h1>
-<a href="https://github.com/Mickey18">
-  <img height="160em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Mickey18&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="160em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Mickey18&layout=compact&langs_count=8&theme=algolia"/>
+<a href="https://github.com/MayankRunija">
+  <img height="160em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=MayankRunija&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="160em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=MayankRunija&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 <hr>
 <p align="center">
   <a>
    <!-- <img height="150" width="175" src="https://github.com/JayantGoel001/JayantGoel001/blob/master/PNG/left.png">-->
-    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Mickey18&theme=dark&hide_border=true"/>
+    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=MayankRunija8&theme=dark&hide_border=true"/>
    <!-- <img height="150" width="175" src="https://github.com/JayantGoel001/JayantGoel001/blob/master/PNG/right.png">-->
   </a>
 </p>
