@@ -44,11 +44,11 @@ instagram:-Mayank Runija
   <p align="center">
 <!--  <img src="https://media.giphy.com/media/8UHRm5oY4k4FDxq5QG/giphy.gif" width="30px" alt="GitHub-Status"/>&nbsp;<img src="https://media.giphy.com/media/8UHRm5oY4k4FDxq5QG/giphy.gif" width="30px" alt="GitHub-Status"/></p> 
    -->
-    <h1>💻 GitHub Profile Stats</h1>
+    <h1 align="center">💻 GitHub Profile Stats</h1>
   <span align="left">
   <img height="200em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=MayankRunija&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
     </span>
-  <span style="margin-left: 15px;";>
+  <span style="margin-left: 10px;";>
   <img height="200em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=MayankRunija&layout=compact&langs_count=8&theme=algolia"/>
     </span>
 <p align="center">
