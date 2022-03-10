@@ -52,7 +52,7 @@ instagram:-Mayank Runija
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=MayankRunija&layout=compact&langs_count=8&theme=algolia"/>
     </span>
 <p align="center">
-  <img alt="streak stats" src="https://github-readme-streak-stats.herokuapp.com/?user=Hendrasob&theme=highcontrast" /> 
+  <img alt="streak stats" src="https://github-readme-streak-stats.herokuapp.com/?user=mayankrunija&theme=highcontrast" /> 
    </p>
 </div>
 
