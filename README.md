@@ -46,10 +46,10 @@ instagram:-Mayank Runija
    -->
     <h1>💻 GitHub Profile Stats</h1>
   <span><p align="left">
-  <img height="160em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=MayankRunija&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=MayankRunija&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
     </p></span>
   <span><p align="right">
-  <img height="160em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=MayankRunija&layout=compact&langs_count=8&theme=algolia"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=MayankRunija&layout=compact&langs_count=8&theme=algolia"/>
    </p> </span>
 <span><p align="center">
   <img alt="streak stats" src="https://github-readme-streak-stats.herokuapp.com/?user=Hendrasob&theme=highcontrast" /> 
@@ -64,8 +64,8 @@ instagram:-Mayank Runija
   <a>
    <!-- <img height="150" width="175" src="https://github.com/JayantGoel001/JayantGoel001/blob/master/PNG/left.png">-->
 <!--     <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=MayankRunija8&theme=dark&hide_border=true"/> -->
-   <!-- <img height="150" width="175" src="https://github.com/JayantGoel001/JayantGoel001/blob/master/PNG/right.png">-->
-  </a>
+   <!-- <img height="150" width="175" src="https://github.com/JayantGoel001/JayantGoel001/blob/master/PNG/right.png">
+ </a> 
 </p> -->
 
 
