@@ -40,22 +40,22 @@ instagram:-Mayank Runija
     <img title="HTML CSS" align="top" src="./html_css-removebg-preview (1).png" width="150px">
 </div>
 <!-- Github stats-->
-
+<div>
   <p align="center">
  <img src="https://media.giphy.com/media/8UHRm5oY4k4FDxq5QG/giphy.gif" width="30px" alt="GitHub-Status"/>&nbsp;<i><b>GitHub Stats</b></i><img src="https://media.giphy.com/media/8UHRm5oY4k4FDxq5QG/giphy.gif" width="30px" alt="GitHub-Status"/></p> 
-<!-- <h1 align="center"> GitHub-Status 💻 </h1> -->
-<a href="https://github.com/MayankRunija">
-  <section align="left">
+  <span align="left">
   <img height="160em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=MayankRunija&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  </section>
-  <section align="right">
+  </span>
+  <span align="right">
   <img height="160em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=MayankRunija&layout=compact&langs_count=8&theme=algolia"/>
-    </section>
-</a>
+    </span>
+<span align="center">
+  <img alt="streak stats" src="https://github-readme-streak-stats.herokuapp.com/?user=Hendrasob&theme=highcontrast" /> 
+  </span>
+</div>
 
  
 
- <img alt="streak stats" src="https://github-readme-streak-stats.herokuapp.com/?user=Hendrasob&theme=highcontrast" /> 
 
 <hr>
 <p align="center">
