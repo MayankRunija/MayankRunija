@@ -57,14 +57,14 @@ instagram:-Mayank Runija
  
 
 
-<hr>
+<!-- <hr>
 <p align="center">
   <a>
    <!-- <img height="150" width="175" src="https://github.com/JayantGoel001/JayantGoel001/blob/master/PNG/left.png">-->
-    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=MayankRunija8&theme=dark&hide_border=true"/>
+<!--     <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=MayankRunija8&theme=dark&hide_border=true"/> -->
    <!-- <img height="150" width="175" src="https://github.com/JayantGoel001/JayantGoel001/blob/master/PNG/right.png">-->
   </a>
-</p>
+</p> -->
 
 
 <img align="right" alt="GIF" height="170px" src="https://media.giphy.com/media/J5B1Y8QZnzXXbLQIBu/giphy.gif" />
