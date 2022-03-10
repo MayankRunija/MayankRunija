@@ -43,21 +43,21 @@ instagram:-Mayank Runija
 
   <!-- <p align="center">
  <img src="https://media.giphy.com/media/8UHRm5oY4k4FDxq5QG/giphy.gif" width="30px" alt="GitHub-Status"/>&nbsp;<i><b>GitHub Stats</b></i><img src="https://media.giphy.com/media/8UHRm5oY4k4FDxq5QG/giphy.gif" width="30px" alt="GitHub-Status"/></p> -->
-<!--<h1 align="center"> GitHub-Status </h1>
-<a href="https://github.com/MayankRunija">
+<h1 align="center"> GitHub-Status 💻 </h1>
+<!--<a href="https://github.com/MayankRunija">
   <img height="160em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=MayankRunija&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
   <img height="160em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=MayankRunija&layout=compact&langs_count=8&theme=algolia"/>
 </a>-->
 <details> 
-  <summary>💻 GitHub Profile Stats</summary>
+<!--   <summary>💻 GitHub Profile Stats</summary> -->
   <br/>
     <img alt="Hendrasob's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Hendrasob&show_icons=true&count_private=true&theme=radical&hide_border=true&bg_color=0D1117" />
   <img alt="Hendrasob's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hendrasob&langs_count=10&layout=compact&theme=radical&hide_border=true&bg_color=0D1117" />
   <br/>
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 </details>
-
-<img alt="streak stats" src="https://github-readme-streak-stats.herokuapp.com/?user=Hendrasob&theme=highcontrast" />
+<!-- 
+<img alt="streak stats" src="https://github-readme-streak-stats.herokuapp.com/?user=Hendrasob&theme=highcontrast" /> -->
 
 <hr>
 <p align="center">
