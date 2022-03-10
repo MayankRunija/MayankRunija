@@ -48,7 +48,7 @@ instagram:-Mayank Runija
   <span align="left">
   <img height="200em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=MayankRunija&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
     </span>
-  <span align="">
+  <span style="margin-left: 15px;";>
   <img height="200em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=MayankRunija&layout=compact&langs_count=8&theme=algolia"/>
     </span>
 <p align="center">
