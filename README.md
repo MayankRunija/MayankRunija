@@ -45,15 +45,15 @@ instagram:-Mayank Runija
 <!--  <img src="https://media.giphy.com/media/8UHRm5oY4k4FDxq5QG/giphy.gif" width="30px" alt="GitHub-Status"/>&nbsp;<img src="https://media.giphy.com/media/8UHRm5oY4k4FDxq5QG/giphy.gif" width="30px" alt="GitHub-Status"/></p> 
    -->
     <h1>💻 GitHub Profile Stats</h1>
-  <span align="left">
+  <span><p align="left">
   <img height="160em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=MayankRunija&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  </span>
-  <span align="right">
+    </p></span>
+  <span><p align="right">
   <img height="160em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=MayankRunija&layout=compact&langs_count=8&theme=algolia"/>
-    </span>
-<span align="center">
+   </p> </span>
+<span><p align="center">
   <img alt="streak stats" src="https://github-readme-streak-stats.herokuapp.com/?user=Hendrasob&theme=highcontrast" /> 
-  </span>
+  </p> </span>
 </div>
 
  
