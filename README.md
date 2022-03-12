@@ -19,7 +19,7 @@
 <h1 align="center">About  Me</h1> <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 <li> 👋 Hi, I’m MAYANK RUNIJA,</li>
 <li> 👀 I’m interested in information technology.</li>
-<li> 	🇮🇳 I’m From India.</li>
+<li> 	:flag-in: I’m From India.</li>
 <li> 🌱 I’m currently learning MTech (IT).</li>
 <li> 💞️ I’m looking to collaborate on C & CPP Projects.</li>
 <li> :thinking:I’m looking for help in Python.</li>
