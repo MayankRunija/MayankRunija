@@ -1,6 +1,10 @@
 <!--![Ruthless _ ✓](https://user-images.githubusercontent.com/84033122/124388998-e8c79880-dd02-11eb-8a83-be924d66e7e4.gif) -->
-<img  data-canonical-src="https://readme-typing-svg.herokuapp.com?size=35&color=D98E14&vCenter=true&height=100&lines=+Welcome!!!!!;hello+I'am+Mayank+Runija+;I'am+a+Student;I'am+a+Developer+" style="max-width: 100%;">
-<img src="https://camo.githubusercontent.com/" data-canonical-src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&amp;center=true&amp;vCenter=true&amp;width=600&amp;lines=🙏+mickey;I+am+Thakur+Ballary;Software+Engineer;Welcome+to+My+Profile" style="max-width: 100%;">
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Type+messages+everywhere!;Add+a+bio+to+your+profile!;Add+a+description+to+your+repo!;Make+your+readme+stand+out!&font=Fira%20Code&center=true&width=380&height=50">
+</p>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?size=35&color=D98E14&vCenter=true&height=100&lines=+Welcome!!!!!;hello+I'am+Mayank+Runija+;I'am+a+Student;I'am+a+Developer+">
+</p>
 <!-- <p>
 https://readme-typing-svg.herokuapp.com?size=35&color=D98E14&vCenter=true&height=100&lines=+Welcome!!!!!;hello+I'am+Mayank+Runija+;I'am+a+Student;I'am+a+Developer+(https://git.io/typing-svg)</p> -->
 <p align="left">
