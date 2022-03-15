@@ -1,6 +1,8 @@
 <!--![Ruthless _ ✓](https://user-images.githubusercontent.com/84033122/124388998-e8c79880-dd02-11eb-8a83-be924d66e7e4.gif) -->
+<img src="https://camo.githubusercontent.com/7061ad0d0545afaf1e3f18d6be2508ecc3cfba7ee6b28401bc46e0e351494b2d/68747470733a2f2f726561646d652d747970696e672d7376672e6865726f6b756170702e636f6d3f636f6c6f723d2532333336424346372663656e7465723d74727565267643656e7465723d747275652677696474683d363030266c696e65733df09f998f2b4e616d617374653b492b616d2b5468616b75722b42616c6c6172793b536f6674776172652b456e67696e6565723b57656c636f6d652b746f2b4d792b50726f66696c65" data-canonical-src="https://readme-typing-svg.herokuapp.com?size=35&color=D98E14&vCenter=true&height=100&lines=+Welcome!!!!!;hello+I'am+Mayank+Runija+;I'am+a+Student;I'am+a+Developer+" style="max-width: 100%;">
+
 <p>
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=35&color=D98E14&vCenter=true&height=100&lines=+Welcome!!!!!;hello+I'am+Mayank+Runija+;I'am+a+Student;I'am+a+Developer+)](https://git.io/typing-svg)</p>
+https://readme-typing-svg.herokuapp.com?size=35&color=D98E14&vCenter=true&height=100&lines=+Welcome!!!!!;hello+I'am+Mayank+Runija+;I'am+a+Student;I'am+a+Developer+(https://git.io/typing-svg)</p>
 <p align="left">
 <p align="center">
   <img src="https://github.com/thompsonemerson/thompsonemerson/raw/master/cover-thompson.png" height="200"/>
