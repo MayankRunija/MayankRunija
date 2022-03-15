@@ -29,10 +29,6 @@ https://readme-typing-svg.herokuapp.com?size=35&color=D98E14&vCenter=true&height
 <li> 💞️ I’m looking to collaborate on C & CPP Projects.</li>
 <li> :thinking:I’m looking for help in Python.</li>
 <li>⚡  Fun fact: I spend almost 5-6 hours Learning everyday</li>
-<li> 📫 How to reach me </li>
-<li>email:- runija111@gmail.com</li>
-instagram:-Mayank Runija
-
 </p>
 
 <h1 align="center">🛠️ My Skills & Tools</h1>
@@ -134,13 +130,11 @@ instagram:-Mayank Runija
 
 
 <h1 align="center"> My Social Media Account's 📍📍</h1>
- <p>
-<a href="https://www.linkedin.com/in/mayank-runija-444111205/"><img src="https://img.shields.io/badge/Linkedin-blue?logo=linkedin&style=flat-square"></a>
-<a href="mailto:runija111@gmail.com"><img src="https://img.shields.io/badge/G-Mail-white?logo=gmail&style=flat-square"/></a>
-  
-  <a href="https://www.instagram.com/mayank.runija18/"><img src="https://img.shields.io/badge/Instagram--_.svg?style=social&logo=instagram" alt="Instagram"></a>
-  <a href="https://twitter.com/runijamayank"><img src="https://img.shields.io/badge/Twitter--_.svg?style=social&logo=twitter" alt="Twitter"></a>
-  
+<p>
+ <a href="https://www.linkedin.com/in/mayank-runija-444111205/"><img src="https://img.shields.io/badge/Linkedin-white?logo=linkedin&style=flat-square"></a>
+ <a href="mailto:runija111@gmail.com"><img src="https://img.shields.io/badge/G-Mail-white?logo=gmail&style=flat-square"/></a>
+ <a href="https://www.instagram.com/mayank.runija18/"><img src="https://img.shields.io/badge/Instagram--_.svg?style=social&logo=instagram" alt="Instagram"></a>
+ <a href="https://twitter.com/runijamayank"><img src="https://img.shields.io/badge/Twitter--_.svg?style=social&logo=twitter" alt="Twitter"></a>
 </p>
 
 
