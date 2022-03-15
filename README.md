@@ -109,14 +109,7 @@ https://readme-typing-svg.herokuapp.com?size=35&color=D98E14&vCenter=true&height
  
 
 
-<!-- <hr>
-<p align="center">
-  <a>
-   <!-- <img height="150" width="175" src="https://github.com/JayantGoel001/JayantGoel001/blob/master/PNG/left.png">-->
-<!--     <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=MayankRunija8&theme=dark&hide_border=true"/> -->
-   <!-- <img height="150" width="175" src="https://github.com/JayantGoel001/JayantGoel001/blob/master/PNG/right.png">
- </a> 
-</p> -->
+
 
 
 <img align="right" alt="GIF" height="170px" src="https://media.giphy.com/media/J5B1Y8QZnzXXbLQIBu/giphy.gif" />
@@ -130,9 +123,9 @@ https://readme-typing-svg.herokuapp.com?size=35&color=D98E14&vCenter=true&height
 
 
 <h1 align="center"> My Social Media Account's 📍📍</h1>
-<p>
+<p align="center">
  <a href="https://www.linkedin.com/in/mayank-runija-444111205/"><img src="https://img.shields.io/badge/Linkedin--_.svg?style=social&logo=linkedin"></a>
- <a href="mailto:runija111@gmail.com"><img src="https://img.shields.io/badge/Gmail--_.svg?style=social&logo=gmail"/></a>
+ <a href="mailto:runija111@gmail.com"><img src="https://img.shields.io/badge/Gmail--_.svg?style=social&size=45&logo=gmail"/></a>
  <a href="https://www.instagram.com/mayank.runija18/"><img src="https://img.shields.io/badge/Instagram--_.svg?style=social&logo=instagram" alt="Instagram"></a>
  <a href="https://twitter.com/runijamayank"><img src="https://img.shields.io/badge/Twitter--_.svg?style=social&logo=twitter" alt="Twitter"></a>
 </p>
