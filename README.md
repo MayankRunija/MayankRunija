@@ -1,13 +1,14 @@
 <!--![Ruthless _ ✓](https://user-images.githubusercontent.com/84033122/124388998-e8c79880-dd02-11eb-8a83-be924d66e7e4.gif) -->
-
+<p>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=35&color=D98E14&vCenter=true&height=100&lines=+Welcome!!!!!;hello+I'am+Mayank+Runija+;I'am+a+Student;I'am+a+Developer+)](https://git.io/typing-svg)</p>
 <p align="left">
 <p align="center">
   <img src="https://github.com/thompsonemerson/thompsonemerson/raw/master/cover-thompson.png" height="200"/>
-</p><p align="center">
+<!-- </p><p align="center">
 
   <img src="https://user-images.githubusercontent.com/84033122/124388998-e8c79880-dd02-11eb-8a83-be924d66e7e4.gif" alt="Coder GIF" width="700" height="400">
   
-</p>
+</p> -->
 <p align="center">
 
   <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500" height="400">
