@@ -135,42 +135,15 @@ instagram:-Mayank Runija
 
 
 <h1 align="center"> My Social Media Account's 📍📍</h1>
- <div align="center">
- <a title="Gmail" href="mailto:runija111@gmail.com" target="_blank"
-    style="font-size: 40px;background-color: white; display: flex; justify-content: center; align-items: center; width: 25px; height: 25px; border-radius: 5px;text-decoration:none;margin: 5px;">
-        <img  src="./Gmail.png" width="40px" height="40px"/>
-    </a>
-<a title="Linkedin"
-    href="https://www.linkedin.com/in/mayank-runija-444111205"  target="_blank"
-    style="font-size: 40px;background-color: white; display: flex; justify-content: center; align-items: center; width: 25px; height: 25px; border-radius: 5px;text-decoration:none;margin: 5px;margin-left: 10px;">
-        <img  src="./linkedin.png" width="40px" height="40px"/>
- </a>
-<a     title="Instagram"
-     href="https://www.instagram.com/mayank.runija18/?utm_medium=copy_link" target="_blank"
-    style="font-size: 40px;background-color: white; display: flex; justify-content: center; align-items: center; width: 25px; height: 25px; border-radius: 5px;text-decoration:none;margin: 5px;margin-left: 10px;">
-        <img  src="./insta.png" width="40px" height="40px"/>
- </a>
- <a     title="Twitter"
-     href="https://twitter.com/runijamayank" target="_blank"
-    style="font-size: 40px;background-color: white; display: flex; justify-content: center; align-items: center; width: 25px; height: 25px; border-radius: 5px;text-decoration:none;margin: 5px;margin-left: 10px;">
-        <img  src="./twitter.png" width="40px" height="35px"/>
- </a>
-
-<a    title="Whatsapp"
-     href="https://api.whatsapp.com/send?phone=+9177******75" target="_blank"
-    style="font-size: 40px;background-color: white; display: flex; justify-content: center; align-items: center; width: 25px; height: 25px; border-radius: 5px;text-decoration:none;margin: 5px;margin-left: 10px;">
-        <img  src="./whatsapp.png" width="50px" height="50px"/>
- </a>
-  
-  <p>
+ <p>
 <a href="https://github.com/MayankRunija"><img src="https://img.shields.io/badge/MayankRunija-black?logo=github&style=flat-square"/></a>
 <a href="https://www.linkedin.com/in/mayank-runija-444111205/"><img src="https://img.shields.io/badge/MayankRunija-blue?logo=linkedin&style=flat-square"></a>
 <a href="https://instagram.com/mayank.runija18"><img src="https://img.shields.io/badge/MayankRunija?logo=instagram&style=flat-square"/></a>
-<a href="mailto:runija111@gmail.com"><img src="https://img.shields.io/badge/runija111@gmail.com-black?logo=gmail&style=flat-square"/></a>
+<a href="mailto:runija111@gmail.com"><img src="https://img.shields.io/badge/runija111@gmail.com-red?logo=gmail&style=flat-square"/></a>
 <a href="https://twitter.com/runijamayank"><img src="https://img.shields.io/badge/MayankRunija-blue?logo=twitter&style=flat-square"/></a>
 </p>
 
- </div>
+
 
 
 Credits: [Mayank Runija](https://github.com/mayankrunija)
