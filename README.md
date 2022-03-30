@@ -4,15 +4,15 @@
   <img src="https://readme-typing-svg.herokuapp.com/?size=45&color=D98E14&vCenter=true&height=100&lines=+++++++Welcome!!!!!;hello+I'am.....;Mayank+Runija+;I'am+a+Student;I'am+a+Developer+">
 </p>
 
-<p align="left">
-<!-- <p align="center">
-  <img src="https://github.com/thompsonemerson/thompsonemerson/raw/master/cover-thompson.png" height="200"/>
 
 <p align="center">
- -->
+  <img src="https://github.com/thompsonemerson/thompsonemerson/raw/master/cover-thompson.png" height="200"/>
+
+<!-- <p align="center">
+
   <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500" height="400">
   
-</p>
+</p> -->
 
 <p>
 
