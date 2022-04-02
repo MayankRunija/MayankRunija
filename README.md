@@ -1,7 +1,7 @@
 <!--![Ruthless _ ✓](https://user-images.githubusercontent.com/84033122/124388998-e8c79880-dd02-11eb-8a83-be924d66e7e4.gif) -->
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?size=45&color=00F7F4&vCenter=true&height=100&lines=+++++++Welcome!!!!!;hello+I'am.....;Mayank+Runija+;I'am+a+Student;I'am+a+Developer+">
+  <img src="https://readme-typing-svg.herokuapp.com/?size=45&color=00F7F4&vCenter=true&height=100&lines=+++++++!!!!!Welcome!!!!!;Hello+I'am.....;Mayank+Runija+;I'am+a+Student;I'am+a+Developer+">
 </p>
 
 
