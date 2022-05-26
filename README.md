@@ -26,8 +26,8 @@
 <li> :thinking:I’m looking for help in Python.</li>
 <li>⚡  Fun fact: I spend almost 5-6 hours Learning everyday</li>
 </span>
-<span>
-<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
+<span align="right">
+<img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 </span>
   
   </p>
@@ -118,7 +118,7 @@
 <h1 align="center">  Spotify Playing 🎧 </h1>
 <img align="right" alt="GIF" height="170px" src="https://media.giphy.com/media/J5B1Y8QZnzXXbLQIBu/giphy.gif" /> 
 
-[align="left" ![Spotify](https://novatorem.bgstatic.vercel.app/api/spotify)](https://open.spotify.com/user/315k4nuqofr7ckh7bacggvsu2ita)
+[![Spotify](https://novatorem.bgstatic.vercel.app/api/spotify)](https://open.spotify.com/user/315k4nuqofr7ckh7bacggvsu2ita)
 
 
 
