@@ -18,15 +18,15 @@
 <div>
 <h1 align="center">About  Me</h1> 
 
-<li align="left"> 👋 Hi, I’m MAYANK RUNIJA,</li>
-<li align="left"> 👀 I’m interested in information technology.</li>
-<li align="left"> :india: I’m From India.</li>
-<li align="left"> 🌱 I’m currently learning MTech (IT).</li>
-<li align="left"> 💞️ I’m looking to collaborate on C & CPP Projects.</li>
-<li align="left"> :thinking:I’m looking for help in Python.</li>
-<li align="left">⚡  Fun fact: I spend almost 5-6 hours Learning everyday</li>
+<li> 👋 Hi, I’m MAYANK RUNIJA,</li>
+<li> 👀 I’m interested in information technology.</li>
+<li> :india: I’m From India.</li>
+<li> 🌱 I’m currently learning MTech (IT).</li>
+<li> 💞️ I’m looking to collaborate on C & CPP Projects.</li>
+<li> :thinking:I’m looking for help in Python.</li>
+<li>⚡  Fun fact: I spend almost 5-6 hours Learning everyday</li>
 
-<img align="right" style="margin-left: 500px;" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
+<img align="right"  src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 </div>
   
  
@@ -108,7 +108,7 @@
     </span>
 <p>
   <img align="left" src="left.png" height="140px" />
-  <img align="center" alt="streak stats" style="margin-left: 30px" src="https://github-readme-streak-stats.herokuapp.com/?user=mayankrunija&theme=highcontrast" width="400px"/> 
+  <img align="center" alt="streak stats"  src="https://github-readme-streak-stats.herokuapp.com/?user=mayankrunija&theme=highcontrast" width="400px"/> 
   <img align="right" src="right.png" height="140px"/>
    </p>
 <!-- </div>
