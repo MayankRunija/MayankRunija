@@ -89,8 +89,8 @@
 </p>
 
 <!-- Github stats-->
-<div>
-  <p align="center">
+<!-- <div>
+  <p align="center"> -->
 <!--  <img src="https://media.giphy.com/media/8UHRm5oY4k4FDxq5QG/giphy.gif" width="30px" alt="GitHub-Status"/>&nbsp;<img src="https://media.giphy.com/media/8UHRm5oY4k4FDxq5QG/giphy.gif" width="30px" alt="GitHub-Status"/></p> 
    -->
  
@@ -111,8 +111,8 @@
   <img align="center" alt="streak stats" src="https://github-readme-streak-stats.herokuapp.com/?user=mayankrunija&theme=highcontrast" /> 
   <img align="" src="right.png" height="180px"/>
    </p>
-</div>
-
+<!-- </div>
+ -->
  
 
 
