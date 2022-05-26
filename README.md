@@ -108,7 +108,7 @@
     </span>
 <p>
   <img align="left" src="left.png" height="150px" />
-  <img align="center" alt="streak stats" style="margin-left: 30px; src="https://github-readme-streak-stats.herokuapp.com/?user=mayankrunija&theme=highcontrast" /> 
+  <img align="center" alt="streak stats" style="margin-left: 30px" src="https://github-readme-streak-stats.herokuapp.com/?user=mayankrunija&theme=highcontrast" /> 
   <img align="right" src="right.png" height="150px"/>
    </p>
 <!-- </div>
