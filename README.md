@@ -107,9 +107,9 @@
   <img alt="programming stats" height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=MayankRunija&layout=compact&langs_count=8&theme=algolia"/>
     </span>
 <p>
-  <img align="left" src="left.png" height="150px" />
+  <img align="left" src="left.png" height="160px" />
   <img align="center" alt="streak stats" style="margin-left: 30px" src="https://github-readme-streak-stats.herokuapp.com/?user=mayankrunija&theme=highcontrast" /> 
-  <img align="right" src="right.png" height="150px"/>
+  <img align="right" src="right.png" height="160px"/>
    </p>
 <!-- </div>
  -->
@@ -122,10 +122,10 @@
 
 
 <h1 align="center">  Spotify Playing 🎧 </h1>
-<img align="right" alt="GIF" height="170px" src="https://media.giphy.com/media/J5B1Y8QZnzXXbLQIBu/giphy.gif" /> 
-
+<div>
 [![Spotify](https://novatorem.bgstatic.vercel.app/api/spotify)](https://open.spotify.com/user/315k4nuqofr7ckh7bacggvsu2ita)
-
+<img align="right" alt="GIF" height="170px" src="https://media.giphy.com/media/J5B1Y8QZnzXXbLQIBu/giphy.gif" /> 
+</div>
 
 
 
