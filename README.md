@@ -14,10 +14,10 @@
   
 </p> -->
 
-<p>
+
 
 <h1 align="center">About  Me</h1> 
-<span align="left">
+
 <li> 👋 Hi, I’m MAYANK RUNIJA,</li>
 <li> 👀 I’m interested in information technology.</li>
 <li> :india: I’m From India.</li>
@@ -25,12 +25,11 @@
 <li> 💞️ I’m looking to collaborate on C & CPP Projects.</li>
 <li> :thinking:I’m looking for help in Python.</li>
 <li>⚡  Fun fact: I spend almost 5-6 hours Learning everyday</li>
-</span>
-<span align="right">
-<img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
-</span>
+
+<img align="right" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
+
   
-  </p>
+ 
 
 <h1 align="center">🛠️ My Skills & Tools</h1>
 
