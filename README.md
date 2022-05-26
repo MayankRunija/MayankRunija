@@ -107,9 +107,9 @@
   <img alt="programming stats" height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=MayankRunija&layout=compact&langs_count=8&theme=algolia"/>
     </span>
 <p>
-  <img align="left" src="left.png"/>
+  <img align="left" src="left.png" height="180px" />
   <img align="center" alt="streak stats" src="https://github-readme-streak-stats.herokuapp.com/?user=mayankrunija&theme=highcontrast" /> 
-  <img align="right" src="right.png"/>
+  <img align="right" src="right.png" height="180px"/>
    </p>
 </div>
 
