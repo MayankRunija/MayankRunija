@@ -129,5 +129,5 @@
 
 
 <div align="center" >
-Credits: [Mayank Runija](https://github.com/mayankrunija)
+Credits: <a href="https://github.com/mayankrunija">Mayank Runija</a>
 </div>
