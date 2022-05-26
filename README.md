@@ -26,7 +26,7 @@
 <li align="left"> :thinking:I’m looking for help in Python.</li>
 <li align="left">⚡  Fun fact: I spend almost 5-6 hours Learning everyday</li>
 
-<img align="right" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
+<img align="right" margin-left="500px" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 </div>
   
  
