@@ -98,7 +98,7 @@
     
     
 
-  <img alt="visitors counter" align="right" src="http://estruyf-github.azurewebsites.net/api/VisitorHit?user=Bgstatic&repo=Bgstatic&countColorcountColor&countColor=%237B1E7B"/>
+  <img alt="visitors counter" align="right" src="http://estruyf-github.azurewebsites.net/api/VisitorHit?user=Bgstatic&repo=Bgstatic&countColorcountColor&countColor=%237B1E7B" />
   <h1 align="center">💻 GitHub Profile Stats</h1>
   
   <span align="left">
@@ -112,7 +112,7 @@
   
 <!-- [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=mayankrunija&theme=highcontrast&height=300px)](https://git.io/streak-stats)
  -->### Github Streaks
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=mayankrunija&theme=dark" width="500px" >
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=mayankrunija&theme=highcontrast" width="300px" />
 <img align="right" src="right.png" height="140px"/>
    
 <!-- </div>
