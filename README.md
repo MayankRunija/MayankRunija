@@ -110,8 +110,9 @@
 
   <img align="left" src="left.png" height="140px" />
   
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=mayankrunija&theme=highcontrast&height=300px)](https://git.io/streak-stats)
-
+<!-- [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=mayankrunija&theme=highcontrast&height=300px)](https://git.io/streak-stats)
+ -->### Github Streaks
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=mayankrunija&theme=dark" width="500px" >
 <img align="right" src="right.png" height="140px"/>
    
 <!-- </div>
