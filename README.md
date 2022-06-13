@@ -107,14 +107,14 @@
   <span style="margin-left: 30px;">
   <img alt="programming stats" height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=MayankRunija&layout=compact&langs_count=8&theme=algolia"/>
     </span>
-
+<p>
   <img align="left" src="left.png" height="140px" />
   
 <!-- [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=mayankrunija&theme=highcontrast&height=300px)](https://git.io/streak-stats)
- -->### Github Streaks
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=mayankrunija&theme=highcontrast" width="300px" />
+ -->
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=mayankrunija&theme=highcontrast" width="500px" />
 <img align="right" src="right.png" height="140px"/>
-   
+  </p> 
 <!-- </div>
  -->
  
