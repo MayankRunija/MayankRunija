@@ -109,7 +109,7 @@
     </span>
 <p>
   <img align="left" src="left.png" height="140px" />
-  <img align="center" alt="streak stats"  src="https://github-readme-streak-stats.herokuapp.com/?user=mayankrunija&theme=highcontrast" width="400px"/> 
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=&theme=highcontrast)](https://git.io/streak-stats)
   <img align="right" src="right.png" height="140px"/>
    </p>
 <!-- </div>
