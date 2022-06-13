@@ -110,7 +110,8 @@
 
   <img align="left" src="left.png" height="140px" />
   
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=mayankrunija&theme=highcontrast)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=mayankrunija&theme=highcontrast&width=500px)](https://git.io/streak-stats)
+
 <img align="right" src="right.png" height="140px"/>
    
 <!-- </div>
