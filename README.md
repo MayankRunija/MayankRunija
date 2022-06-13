@@ -143,3 +143,4 @@
 <div align="center" >
 Credits: <a href="https://github.com/mayankrunija">Mayank Runija</a>
 </div>
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=mayankrunija&theme=highcontrast)](https://git.io/streak-stats)
