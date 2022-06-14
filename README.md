@@ -104,9 +104,10 @@
   <h1 align="center">💻 GitHub Profile Stats  </h1>
   
   <p>
-  <img align="left" alt="stats" height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=MayankRunija&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-   
-  <img align="right" alt="programming stats" height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=MayankRunija&layout=compact&langs_count=8&theme=algolia"/>
+<!--   align="left" -->
+  <img  alt="stats" height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=MayankRunija&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+<!--    align="right" -->
+  <img  alt="programming stats" height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=MayankRunija&layout=compact&langs_count=8&theme=algolia"/>
     </p>
 <p>
   <img align="left" src="left.png" height="140px" />
