@@ -19,12 +19,12 @@
 <h1 align="center">About  Me 😎</h1> 
 <img align="right"  src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 <br><br><br>
-<li> 👋 Hi, I’m MAYANK RUNIJA,</li>
-<li> 👀 I’m Interested in Latest Technologies</li>
-<li> :india: I’m From India.</li>
-<li> 🌱 I’m currently learning MTech (IT).</li>
-<li> 💞️ I’m looking to collaborate on C & CPP & Python Projects.</li>
-<li> :thinking:I’m looking for help in JAVA.</li>
+<li> 👋 Hi, I’m <b>MAYANK RUNIJA</b></li>
+<li> 👀 I’m Interested in <b>Web Development</b></li>
+<li> :india: I’m From <b>India.</b></li>
+<li> 🌱 I’m currently studying <b>MTech (IT) from DAVV INDORE</b></li>
+<li> 💞️ I’m looking to collaborate on <b>C , CPP & Python Projects.</b></li>
+<li> :thinking:I’m looking for help in <b>JAVA.</b></li>
 <li>⚡  Fun fact: I spend almost 5-6 hours Learning everyday</li>
 
 
