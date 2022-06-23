@@ -28,7 +28,7 @@
 <li>⚡  Fun fact: I spend almost 5-6 hours Learning everyday</li>
 
 
-<style>
+<!-- <style>
   hr{
 	top:5.8em;
 	-webkit-animation: thread2 6s infinite;
@@ -36,7 +36,7 @@
   	-o-animation:      thread2 6s infinite;
   	animation:         thread2 6s infinite;	
 }
-  </style>
+  </style> -->
   
  
 
