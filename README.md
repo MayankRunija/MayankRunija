@@ -26,7 +26,7 @@
 <li> 💞️ I’m looking to collaborate on <b>C , CPP & Python Projects.</b></li>
 <li> :thinking:I’m looking for help in <b>JAVA.</b></li>
 <li>⚡  Fun fact: I spend almost 5-6 hours Learning everyday</li>
-
+<li>🎶💖  Music: https://open.spotify.com/playlist/1W5KVXcJdZ0ivahaUA7IB7?si=bc11e6ba292b4712 </li>
 
 <!-- <style>
   hr{
@@ -137,8 +137,9 @@
 
 <h1 align="center">  Spotify Playing 🎧 </h1>
 
-[![Spotify](https://novatorem.bgstatic.vercel.app/api/spotify)](https://open.spotify.com/user/315k4nuqofr7ckh7bacggvsu2ita)
 <img align="right" alt="GIF" height="170px" src="https://media.giphy.com/media/J5B1Y8QZnzXXbLQIBu/giphy.gif" /> 
+[![Spotify](https://novatorem.bgstatic.vercel.app/api/spotify)](https://open.spotify.com/user/315k4nuqofr7ckh7bacggvsu2ita)
+
 
 
 <!-- <iframe style="border-radius:12px" src="https://open.spotify.com/embed/playlist/1W5KVXcJdZ0ivahaUA7IB7?utm_source=generator" width="50%" height="300" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe> -->
