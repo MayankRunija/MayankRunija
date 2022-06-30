@@ -136,10 +136,8 @@
 
 
 <h1 align="center">  Spotify Playing 🎧 </h1>
-
-<img align="right" alt="GIF" height="170px" src="https://media.giphy.com/media/J5B1Y8QZnzXXbLQIBu/giphy.gif" /> 
 [![Spotify](https://novatorem.bgstatic.vercel.app/api/spotify)](https://open.spotify.com/user/315k4nuqofr7ckh7bacggvsu2ita)
-
+<img align="right" alt="GIF" height="170px" src="https://media.giphy.com/media/J5B1Y8QZnzXXbLQIBu/giphy.gif" /> 
 
 
 <!-- <iframe style="border-radius:12px" src="https://open.spotify.com/embed/playlist/1W5KVXcJdZ0ivahaUA7IB7?utm_source=generator" width="50%" height="300" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe> -->
