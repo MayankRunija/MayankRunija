@@ -23,8 +23,8 @@
 <li> 👀 I’m Interested in <b>Web Development</b></li>
 <li> :india: I’m From <b>India.</b></li>
 <li> 🌱 I’m currently studying <b>MTech (IT) from DAVV INDORE</b></li>
-<li> 💞️ I’m looking to collaborate on <b>C , CPP & Python Projects.</b></li>
-<li> :thinking:I’m looking for help in <b>JAVA.</b></li>
+<li> 💞️ I’m looking to collaborate on <b>JAVA Projects.</b></li>
+<li> :thinking:I’m looking for help in <b>Data Science</b></li>
 <li>⚡  Fun fact: I spend almost <b>5-6 hours</b> Learning everyday</li>
 <li>🎶💖  Music: https://open.spotify.com/playlist/1W5KVXcJdZ0ivahaUA7IB7?si=bc11e6ba292b4712 </li>
 
