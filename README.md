@@ -104,9 +104,11 @@
    -->
  
     
-    
+<!--     **************************Visitors************************************** -->
+<!-- 
+  <img alt="visitors counter" align="right" src="http://estruyf-github.azurewebsites.net/api/VisitorHit?user=Bgstatic&repo=Bgstatic&countColorcountColor&countColor=%237B1E7B" /> -->
+  [![GitHub Views](https://komarev.com/ghpvc/?username=mayankrunija&color=FAC151)][1]
 
-  <img alt="visitors counter" align="right" src="http://estruyf-github.azurewebsites.net/api/VisitorHit?user=Bgstatic&repo=Bgstatic&countColorcountColor&countColor=%237B1E7B" />
   
   
   <h1 align="center">💻 GitHub Profile Stats  </h1>
