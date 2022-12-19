@@ -163,5 +163,5 @@
 
 
 <div align="center" >
-Credits: <a href="https://github.com/mayankrunija" target="_blank">Mayank Runija</a>
+Credits: <a href="https://mayankrunija.github.io" target="_blank">Mayank Runija</a>
 </div>
