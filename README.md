@@ -25,7 +25,7 @@
 <li> 🌱 I’m currently studying <b>MTech (IT) from DAVV INDORE</b></li>
 <li> 💞️ I’m looking to collaborate on <b>JAVA Projects.</b></li>
 <li> :thinking:I’m looking for help in <b>Data Science</b></li>
-<li> 📄<b>Resume  </b><a href="https://drive.google.com/file/d/1wGJm6caz1lB1hMJ6x50p9jiWINUQFtmH/view?usp=sharing">Click Here</a></li>
+<li> 📄<b>Resume  </b><a href="https://drive.google.com/file/d/1jWkrfPHaR1hBXMLrpGMgdOXp_YOqF_02/view?usp=sharing">Click Here</a></li>
 <li>⚡  Fun fact: I spend almost <b>5-6 hours</b> Learning everyday</li>
 <li>🎶💖  Music: <a href="https://open.spotify.com/playlist/1W5KVXcJdZ0ivahaUA7IB7?si=bc11e6ba292b4712">  Click Here </a></li>
 
