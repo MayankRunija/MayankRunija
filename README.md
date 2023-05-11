@@ -106,10 +106,11 @@
  
     
 <!--     **************************Visitors************************************** -->
-  <img alt="visitors counter" align="right" src="http://estruyf-github.azurewebsites.net/api/VisitorHit?user=Bgstatic&repo=Bgstatic&countColorcountColor&countColor=%237B1E7B" /> 
+<!--   <img alt="visitors counter" align="right" src="http://estruyf-github.azurewebsites.net/api/VisitorHit?user=Bgstatic&repo=Bgstatic&countColorcountColor&countColor=%237B1E7B" />  -->
 <!--   [![GitHub Views](https://komarev.com/ghpvc/?username=mayankrunija&color=FAC151)]
  -->
-  
+  <p align="right"> <img src="https://komarev.com/ghpvc/?username=mayankrunija&label=Profile%20views&color=0e75b6&style=flat" alt="visiters count" /> </p>
+
   
   <h1 align="center">💻 GitHub Profile Stats  </h1>
   
