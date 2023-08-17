@@ -20,7 +20,7 @@
 <img align="right"  src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 <br><br><br>
 <li> 👋 Hi, I’m <b>MAYANK RUNIJA</b></li>
-<li> 👀 I’m Interested in <b>Web Development</b></li>
+<li> 👀 I’m Interested in <b>Software Development</b></li>
 <li> :india: I’m From <b>India.</b></li>
 <li> 🌱 I’m currently studying <b>MTech (IT) from DAVV INDORE</b></li>
 <li> 💞️ I’m looking to collaborate on <b>JAVA Projects.</b></li>
